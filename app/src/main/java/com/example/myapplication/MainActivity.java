@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         System.out.println("commiting v1.2");
-        System.out.println("experimental");
+        System.out.println("change 1 (normal by exp2)");
+        System.out.println("experimental2");
     }
 }
